@@ -216,15 +216,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-
-# KOSSDA raw data and generated outputs
-*.sav
-kossda_*.csv
-fig*.png
-data/*.sav
-data/*.csv
-outputs/*.csv
-outputs/*.png
-outputs/*.jpg
-outputs/*.jpeg
-outputs/*.pdf
